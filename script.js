@@ -1,5 +1,7 @@
-
-let character = 'Hello';
+let character = "Hello";
 console.log(character);
-character ='World';
+character = "World";
 console.log(character);
+let secondCharacter;
+secondCharacter = "Test";
+console.log(secondCharacter);
