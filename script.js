@@ -7,7 +7,7 @@ function padRow(name) {
 }
 
 
-const call = padRow();
+const call = padRow("Laxmi");
 console.log(call);
 
 for (let i = 0; i < count; i = i + 1) {
