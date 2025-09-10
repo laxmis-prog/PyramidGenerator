@@ -6,6 +6,12 @@ function padRow(name) {
    return name;
 }
 
+function addTwoNumbers (a,b) {
+   return a+b;
+}
+const sum = addTwoNumbers(5,10);
+console.log(sum);
+
 
 const call = padRow("Laxmi");
 console.log(call);
