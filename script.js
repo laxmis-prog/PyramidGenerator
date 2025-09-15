@@ -13,7 +13,9 @@ for (let i = 1; i <= count; i ++) {
   */
 
 
-let continueLoop = false;
+while (continueLoop) {
+  
+}
 let done = 0;
 
 let result = "";
