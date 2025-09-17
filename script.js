@@ -28,6 +28,10 @@ for (let i = count; i > 0; i--) {
 }
   */
 
+const numbers = [1,2,3];
+console.log(numbers);
+
+
 let result = "";
 
 for (const row of rows) {
