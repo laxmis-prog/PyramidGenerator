@@ -10,11 +10,11 @@ function padRow(rowNumber, rowCount) {
   );
 }
 
-/*TODO:Change the code to different kind of loop //
+//TODO:Change the code to different kind of loop //
 for (let i = 1; i <= count; i ++) {
-  rows.push(padRow(i,count));
+  rows.unshift(padRow(i,count));
 }
-  */
+  
 
 /*
 while (rows.length < count) {
