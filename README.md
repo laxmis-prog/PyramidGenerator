@@ -1,0 +1,1 @@
+This is a PyramidGenerator project I created as part of the FreeCodeCamp JavaScript Algorithms and Data Structures curriculum. This practise project introduced me to key JavaScript programming concepts by guiding me to code a Pyramid Generator. I got experience using arrays,strings,functions,loops and conditional logic etc
