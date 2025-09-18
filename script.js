@@ -19,8 +19,11 @@ function padRow(rowNumber, rowCount) {
 for (let i = 1; i <= count; i ++) {
   if (inverted) {
     true;
+    rows.unshift(padRow(i,count));
+  } else {
+    
   }
-  rows.unshift(padRow(i,count));
+  
 }
   
 
